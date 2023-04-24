@@ -31,8 +31,8 @@ Sempre fui apaixonado por filmes e logo quando lançou "Matrix" eu mergulhei no 
 📆 2023 - Atualmente\
 📍 **Universidade Estácio de Sá** - Cabo Frio, Brazil
 
-## Experiência
+## Procurando por Experiência
 
-- 👨‍💻 **À procura de experiência**\
+- 👨‍💻 **À procura**\
 📆 Atualmente\
 📍  - Remoto, Brazil
