@@ -10,7 +10,7 @@
 
 Estudante de Sistema da Informação, morando atualmente no Brasil.
 
-Hoje com 26 anos, casado com uma mulher publicitária e pai (de pet) de 3 gatos, ingressei na faculdade de Sistema da Informação seguindo meu senho, penso me especializar na área de segurança.
+Hoje com 26 anos, casado com uma mulher publicitária, ingressei na faculdade de Sistema da Informação seguindo meu senho, penso me especializar na área de segurança.
 
 Sempre fui apaixonado por filmes e logo quando lançou "Matrix" eu mergulhei no computador pesquisando o que era tudo aquilo que se passava no filme, como fazer o "Neo" conseguia gerar aqueles códigos, como conseguiam implantar códigos de lutas e etc... Acabou que encontrei em Sistema a minha paixão, das telonas do cinema para as telinhas do computador.
 
