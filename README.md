@@ -93,6 +93,3 @@ Python, Django, HTML, CSS, Tailwind, SQL, JavaScript, PHP, Nginx, Windows Server
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
