@@ -19,7 +19,7 @@
 <br/>  
   
 
-<img src="https://i.redd.it/v7g6ime1wtk61.jpg" align="left" style="width: 100%" />  
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQFH_Etxb-rbYw/profile-displaybackgroundimage-shrink_350_1400/B4DZdgZdFsHAAY-/0/1749668975620?e=1756339200&v=beta&t=oOyUv5YRsTvrdTfcfP1YzFoQJ062VOmLizxOctOTjvg" align="left" style="width: 100%" />  
   
 
 <br/> 
