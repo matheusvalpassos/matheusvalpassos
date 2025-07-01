@@ -1,89 +1,68 @@
-## Olá 👋, meu nome é Matheus Valpassos!  
-  
+# Olá 👋, meu nome é Matheus Valpassos!
 
-<a href="https://github.com/matheusvalpassos" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/matheusvalpassos" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/matheusvalpassos" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/matheus.valpassoss" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a> 
-<br/>  
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQFH_Etxb-rbYw/profile-displaybackgroundimage-shrink_350_1400/B4DZdgZdFsHAAY-/0/1749668975620?e=1756339200&v=beta&t=oOyUv5YRsTvrdTfcfP1YzFoQJ062VOmLizxOctOTjvg" align="left" style="width: 100%" />  
-<br/> 
-<br/> 
+[![github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheusvalpassos) [![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusvalpassos) [![instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheus.valpassoss)
 
-### Que bom ver você aqui!  
-Sou um profissional em transição de carreira, cursando o 5º período de Sistemas de Informação. Possuo habilidades em desenvolvimento de projetos com Python, Django e frontend (HTML, CSS, Tailwind), além de experiência em criação de bancos de dados relacionais com SQL e desenvolvimento de APIs.
+![Capa do Perfil do LinkedIn](https://media.licdn.com/dms/image/v2/D4D16AQFH_Etxb-rbYw/profile-displaybackgroundimage-shrink_350_1400/B4DZdgZdFsHAAY-/0/1749668975620?e=1756339200&v=beta&t=oOyUv5YRsTvrdTfcfP1YzFoQJ062VOmLizxOctOTjvg)
 
-Tenho experiência em gerenciamento de projetos, modelagem de processos e habilidades interpessoais, o que me permite trabalhar eficazmente em equipe. Estou comprometido com o aprendizado contínuo e a melhoria constante de habilidades e conhecimentos. Meus projetos incluem sistemas de gestão de clínica psicológica, finanças pessoais e API para academias de jiu jitsu.
+### 👨‍💻 Sobre Mim
 
-Meu objetivo é ingressar na área de tecnologia como desenvolvedor de software, contribuindo para o sucesso de uma empresa. Estou ansioso para concluir minha graduação e me especializar em linguagens de programação.
+Sou um profissional em **transição de carreira** para a área de tecnologia, atualmente cursando o 5º período de **Sistemas de Informação**. Apaixonado por resolver problemas reais com código, tenho focado em desenvolvimento **Full-Stack com Python e Django**, criando soluções completas desde o backend até o deploy em produção.
 
-Python, Django, HTML, CSS, Tailwind, SQL, JavaScript, PHP, Nginx, Windows Server, MSSQL.  
-  
+Minha experiência prévia em gestão de projetos e design gráfico me proporciona uma visão única, unindo lógica de programação com uma interface intuitiva para o usuário. Estou comprometido com o aprendizado contínuo e busco uma oportunidade para atuar como **Desenvolvedor de Software**, contribuindo para o sucesso de projetos inovadores.
 
-<br/>  
+- 🔭 Atualmente estou desenvolvendo um ecossistema em Django e SQL para estudo.
+- 🌱 Estou me aprofundando em Python e JavaScript atualmente.
+- ⚡ Fato curioso: Atuo como designer gráfico desde os meus 15 anos e já conquistei uma premiação de 'Destaque' na área.
 
-- 🔭 - Atualmente estou desenvolvendo um ecossistema em Django e SQL para estudo.  
-  
+---
 
-- 🌱 - Estou me aprofundando em Python e JavaScript atualmente.  
-  
+### 🚀 Projeto em Destaque
 
-- ❓ - Quer me perguntar algo?  
-  
+> #### Plataforma de Automação de Relatórios Top Clube
+> Uma ferramenta web interna para a **Rede Bellas**, projetada para automatizar a gestão de relatórios de resgate de produtos. A aplicação transforma um processo manual que levava horas em uma tarefa de minutos, automatizando a importação de dados, a gestão de status e a geração de relatórios em PDF.
+> 
+> * ✅ **Acesse a aplicação ao vivo:** [msvrocha.pythonanywhere.com](https://msvrocha.pythonanywhere.com/)
+> * ✅ **Confira o repositório:** [Gestao de Estoque](https://github.com/matheusvalpassos/GestaoEstoque)
 
-- ⚡ - Fato curioso: Atuo com designer gráfico desde os meus 15 anos e já conquistei uma premiação de 'Destaque'.  
-  
+---
 
-  
-  
+## 🛠️ Habilidades & Ferramentas
 
-<br/>  
+### 💻 Hard Skills
 
+| Categoria | Tecnologias |
+| :---: | --- |
+| **Backend** | Python, Django, APIs REST |
+| **Frontend** | HTML, CSS, Tailwind CSS, JavaScript |
+| **Banco de Dados** | PostgreSQL, SQLite, SQL |
+| **DevOps & Deploy** | Docker, Gunicorn, NGINX, PythonAnywhere, Render, Fly.io |
+| **Bibliotecas**| WeasyPrint, Decouple, Chart.js |
+| **Outras** | Git, GitHub, Shell Scripting (Básico) |
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="75" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="75" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="75" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="75" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="75" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="75" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="75" /></a>  
-</div>  
+### 🤝 Soft Skills
 
-<br/>  
+* 🧩 **Resolução de Problemas:** Experiência em depurar e solucionar erros complexos em ambientes de desenvolvimento e produção.
+* 🔄 **Adaptabilidade:** Capacidade de transitar entre diferentes tecnologias e plataformas de deploy.
+* 📈 **Gestão de Projetos:** Habilidade de levar um projeto do conceito à implementação final.
+* 💬 **Comunicação e Colaboração:** Experiência em trabalhar de forma iterativa para refinar requisitos e implementar funcionalidades.
 
+<br/>
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+<p align="center">
+<a href="https://www.python.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="40" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" /></a>
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a>
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="40" /></a>
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" /></a>
+</p>
+<br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=matheusvalpassos&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
+### 📊 Estatísticas do GitHub
 
-</td><td valign="top" width="50%">
+![Estatísticas do GitHub de Matheus Valpassos](https://github-readme-stats.vercel.app/api?username=matheusvalpassos&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
+![Linguagens Mais Usadas por Matheus Valpassos](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvalpassos&hide_border=true&layout=compact&theme=tokyonight)
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvalpassos&hide_border=true&layout=compact" align="center" /></div>
-
-</td></tr></table>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=matheusvalpassos&&style=flat-square" align="center" />
-</div>  
-
-<br />
