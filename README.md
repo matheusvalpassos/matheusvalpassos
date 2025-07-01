@@ -14,11 +14,8 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> 
 <br/>  
-  
-
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQFH_Etxb-rbYw/profile-displaybackgroundimage-shrink_350_1400/B4DZdgZdFsHAAY-/0/1749668975620?e=1756339200&v=beta&t=oOyUv5YRsTvrdTfcfP1YzFoQJ062VOmLizxOctOTjvg" align="left" style="width: 100%" />  
-  
-
+<br/> 
 <br/> 
 
 ### Que bom ver você aqui!  
