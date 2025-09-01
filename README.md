@@ -2,8 +2,6 @@
 
 [![github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheusvalpassos) [![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusvalpassos) [![instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheus.valpassoss)
 
-![Capa do Perfil do LinkedIn](https://media.licdn.com/dms/image/v2/D4D16AQFH_Etxb-rbYw/profile-displaybackgroundimage-shrink_350_1400/B4DZdgZdFsHAAY-/0/1749668975620?e=1756339200&v=beta&t=oOyUv5YRsTvrdTfcfP1YzFoQJ062VOmLizxOctOTjvg)
-
 ### 👨‍💻 Sobre Mim
 
 Sou um profissional em **transição de carreira** para a área de tecnologia, atualmente cursando o 5º período de **Sistemas de Informação**. Apaixonado por resolver problemas reais com código, tenho focado em desenvolvimento **Full-Stack com Python e Django**, criando soluções completas desde o backend até o deploy em produção.
